@@ -11,7 +11,7 @@ const Home = () => {
       <HomeappBar />
       <Box
         component="img"
-        src={background}
+        src="https://c0.wallpaperflare.com/preview/263/921/102/business-communication-computer-concept.jpg"
         sx={{ width: "100%", height: "100vh" }}
       />
 
